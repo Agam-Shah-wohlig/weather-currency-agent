@@ -1,0 +1,16 @@
+google-cloud-sdk/
+.google/
+.env
+*.key
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env/
+.venv/
+
+.DS_Store
+Thumbs.db
