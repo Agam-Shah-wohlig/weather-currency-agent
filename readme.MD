@@ -135,13 +135,6 @@ adk web
 
 ---
 
-## Notes
-
-* The agent automatically deduces ISO currency codes from queries.
-* `.gitignore` should exclude `google-adk/`, `.env`, `__pycache__/`, `*.pyc`.
-
-```
-
 This is **all in one block**, fully formatted, ready to paste into your `README.md`.  
 
 Do you want me to also create a **`requirements.txt`** for this project so installation is even easier?
