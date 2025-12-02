@@ -63,18 +63,6 @@ CURRENCY_API_KEY="your-freecurrency-api-key"
 
 ---
 
-## Usage Example
-
-```python
-from multi_tool_agent.agent import root_agent
-
-# Weather query
-print(root_agent.ask("Weather in Tokyo?"))
-
-# Currency conversion
-print(root_agent.ask("Convert 100 USD to EUR"))
-```
-
 ### How to run the agent
 
 1. Open terminal and navigate to the project root folder (`weather-currency-agent`).
